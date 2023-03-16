@@ -1,0 +1,3 @@
+change color
+z fighting with textures
+error with no default textures
