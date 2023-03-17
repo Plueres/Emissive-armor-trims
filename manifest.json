@@ -1,34 +1,23 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Emissive armor trims",
-        "description": "makes the armor trims glow in the dark",
-        "uuid": "e458fdcf-23e3-4662-8933-4070a39cdc9b",
-        "version": [
-            1,
-            0,
-            0
-        ],
-        "min_engine_version": [
-            1,
-            19,
-            0
-        ]
+      "name": "Emissive Armor Trims",
+      "description": "Makes the armor trims glow in the dark",
+      "uuid": "5cc6e2e1-ad82-49c1-b53c-95fed09b9a77",
+      "version": [1,0,0],
+      "min_engine_version": [1,19,0]
     },
     "modules": [
-        {
-            "type": "resources",
-            "uuid": "bf380de1-382e-45c4-bab1-dcab0b32bdca",
-            "version": [
-                1,
-                0,
-                0
-            ]
-        }
+      {
+        "type": "resources",
+        "uuid": "e86f14a1-85fc-4e48-beca-1b654bab773f",
+        "version": [1,0,0]
+      }
     ],
     "metadata": {
-        "authors": [
-            "Plueres"
-        ]
+      "authors": [
+        "Plueres"
+      ],
+      "url": "https://github.com/Plueres"
     }
-}
+  }
