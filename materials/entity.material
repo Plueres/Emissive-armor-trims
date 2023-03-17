@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "armor:entity_emissive_alpha": {},
         "armor_leather:entity_alphatest_change_color": {},
-        "armor_enchanted:entity_alphatest_glint": {},
+        "armor_enchanted:entity_emissive_alpha": {},
         "armor_leather_enchanted:entity_alphatest_change_color_glint": {}
     }
 }
