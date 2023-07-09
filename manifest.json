@@ -4,7 +4,7 @@
       "name": "Emissive Armor Trims",
       "description": "Makes the armor trims glow in the dark",
       "uuid": "5cc6e2e1-ad82-49c1-b53c-95fed09b9a77",
-      "version": [1,0,0],
+      "version": [1,1,0],
       "min_engine_version": [1,19,0]
     },
     "modules": [
